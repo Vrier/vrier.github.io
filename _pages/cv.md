@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.A.(Hons) Philosophy, Durham University, 2015
-* M.Sc. Philophy, The University of Edinburgh, 2016
+* M.Sc. Philosophy, The University of Edinburgh, 2016
 * Ph.D in Formal Semantics, The University of Edinburgh, 2021 (expected)
 
 Skills
