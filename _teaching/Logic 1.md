@@ -10,11 +10,11 @@ location: "Edinburgh, UK"
 
 Tutoring for Introduction Logic Course. 3 Years.
 
-Heading 1
+Spring 2018
 ======
 
-Heading 2
+Spring 2019
 ======
 
-Heading 3
+Spring 2020
 ======
