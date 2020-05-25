@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/MML.md
 venue: "University of Edinburgh, Philosophy"
-date: 2018 - 2019
+date: 2018-01-15
 location: "Edinburgh, UK"
 ---
 
