@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Edinburgh, Philosophy"
-date: 2018 - 2020
+date: 2018-09-01
 location: "Edinburgh, UK"
 ---
 
