@@ -8,7 +8,7 @@ date: 2018-01-01
 location: "Edinburgh, UK"
 ---
 
-Tutoring for Introduction Logic Course. 3 Years.
+Tutoring on introductory Logic course for first year undergraduates.
 
 Spring 2018
 ======
